@@ -25,9 +25,11 @@ To run this project locally:
    git clone https://github.com/JustJhong609/it-35.git
    cd it-35
 2. Install dependencies:
-   ```npm install
+   ```bash
+   npm install
 3. Start the development server:
-   ```npm run dev / ionic serve
+   ```bash
+   npm run dev / ionic serve
 
 
 Make sure you have your own Supabase project and environment variables set up to connect the frontend to the backend.
