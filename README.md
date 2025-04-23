@@ -68,5 +68,5 @@ for his valuable guidance and support throughout the semester.
 Application Development (IT 35) focuses on practical experience in building full-stack applications using modern tools. This project reflects our hands-on learning and teamwork throughout the term.
 
 Feel free to explore, contribute, or fork the project!
-Built with 💙 and caffeine ☕.
+Built with 💙caffeine ☕, and Beer 🍺
 
