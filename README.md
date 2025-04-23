@@ -30,15 +30,15 @@ To run this project locally:
 3. Start the development server:
    ```bash
    npm run dev / ionic serve
-
-
 Make sure you have your own Supabase project and environment variables set up to connect the frontend to the backend.
 
 🙏 Acknowledgments
+
 Special thanks to our instructor Sir Cliff Amadeus F. Evangelio https://github.com/cliffamadeus
 for his guidance and support throughout this course.
 
 📚 About the Subject
+
 Application Development (IT 35) is a subject that focuses on learning how to develop scalable and maintainable software applications using modern technologies and frameworks. This project is a reflection of what we've learned and built collaboratively throughout the semester.
 
 *** Feel free to explore, learn, and fork the repo! 💻✨
