@@ -1,6 +1,6 @@
 # IT 35 - Application Development Project
 
-This repository is part of my academic journey in studying Information Technology. It contains the source code and resources for our subject **Application Development** (IT 35), where we explore building cross-platform applications using **Ionic React** integrated with **Supabase**.
+This repository is part of my academic journey in studying Information Technology. It contains the source code and resources for our subject **Application Development** (IT 35), where we explore building cross-platform applications using **Ionic React** integrated with **Supabase**. 
 
 ## 📱 Project Overview
 
